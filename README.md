@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeyabal-B
 - 👀 I’m interested in finding solutions to complex problems
 - 🌱 I’m always in the process of learning something new everyday
-- 💞️ I’m looking to collaborate on any interesting projects
+- 💞️ I’m looking to collaborate on any interesting projects or to help with fixing the open issues
 - 📫 How to reach me - email
 
 <!---
