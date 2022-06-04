@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any interesting projects or to help with fixing the open issues
 - 📫 AWS, Java, SpringBoot, SQL, Microservices and Unit testing frameworks
 
+[![Jeyabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyabal-B)](https://github.com/Jeyabal-B/github-readme-stats)
+
 <!---
 Jeyabal-B/Jeyabal-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
