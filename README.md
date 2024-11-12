@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Jeyabal-B
+- 👋 Hi, I’m Jey
 - 👀 I’m interested in finding solutions to complex problems
 - 🌱 I’m always in the process of learning something new everyday
 - 💞️ I’m looking to collaborate on any interesting projects or to help with fixing the open issues
-- 📫 AWS, Java, SpringBoot, SQL, Microservices and Unit testing frameworks
-
-View my gitlab projects here.
-https://gitlab.com/jeyabal
+- 📫 AWS, Java, SpringBoot, NodeJS, React, SQL, Microservices and Unit Testing Frameworks
 
 [![Jeyabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyabal-B&show_icons=true&theme=dracula)](https://github.com/Jeyabal-B/github-readme-stats)
 
