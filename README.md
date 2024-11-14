@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jey
-- 👀 I’m interested in finding solutions to complex problems
+- 👀 I love to tackle complex problems and take on new challenges
 - 🌱 I’m always in the process of learning something new everyday
 - 💞️ I’m looking to collaborate on any interesting projects or to help with fixing the open issues
 - 📫 AWS, Java, SpringBoot, NodeJS, React, SQL, Microservices and Unit Testing Frameworks
