@@ -2,7 +2,8 @@
 - 👀 I love to tackle complex problems and take on new challenges
 - 🌱 I’m always in the process of learning something new everyday
 - 💞️ I’m looking to collaborate on any interesting projects or to help with fixing the open issues
-- 📫 AWS, Java, SpringBoot, NodeJS, React, SQL, Microservices and Unit Testing Frameworks
+- 📫 Java, SpringBoot, Microservices, NodeJS, React, SQL and Unit Testing Frameworks
+- 📫 AWS & Azure Certified
 
 [![Jeyabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyabal-B&show_icons=true&theme=dracula)](https://github.com/Jeyabal-B/github-readme-stats)
 
