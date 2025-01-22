@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting projects or to help with fixing the open issues
 - 📫 Java, SpringBoot, Microservices, NodeJS, React, SQL and Unit Testing Frameworks
 - 📫 AWS & Azure Certified
+- 📫 Leading SAFe 5.0 Certified
 
 [![Jeyabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyabal-B&show_icons=true&theme=dracula)](https://github.com/Jeyabal-B/github-readme-stats)
 
